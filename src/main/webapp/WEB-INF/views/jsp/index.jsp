@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Kubenetes blue and green deployment..!!</h2>
+			<h2>Welcome To DevOps and AWS Classes..!!</h2>
 			
 		</div>	
 	</div>
